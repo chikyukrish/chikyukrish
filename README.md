@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chikyukrish - Reverse Shell Tools
+- 👋 Hi, I’m @chikyukrish - 
 
 <!---
 chikyukrish/chikyukrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
