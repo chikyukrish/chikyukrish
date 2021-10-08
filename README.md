@@ -1,6 +1,6 @@
 ### Hi there 👋, Krisna Ardi Sugiarto
 #### Cyber Security Writer
-![Cyber Security Writer](https://pbs.twimg.com/profile_banners/1298992917059518467/1633733417/600x200)
+![Cyber Security Writer](https://pbs.twimg.com/profile_banners/1298992917059518467/1633733417/1500x500)
 
 
 I am an informatics engineering student. I have Python, Java, Java Script, PHP, Dart and C programming languages. I am a cyber security writer and have a passion for Capture the Flag.
