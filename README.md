@@ -8,6 +8,8 @@
 
 I am an informatics engineering student. I have Python, Java, Java Script, PHP, Dart and C programming languages. I am a cyber security writer and have a passion for Capture the Flag.
 
+## Exmple of Work
+<img src="https://github.com/chikyukrish/chikyukrish/blob/main/responsive-web-design.gif" widhst="256" />
 
 Skills: PHP / JAVA / DART / PYTHON / C / JS / HTML / CSS
 
