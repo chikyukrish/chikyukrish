@@ -1,9 +1,10 @@
 ![Cyber Security Writer](https://pbs.twimg.com/profile_banners/1298992917059518467/1633733417/1500x500)
-### Hi there 👋,I'm  Krisna Ardi Sugiarto
+# Hi there 👋,I'm  Krisna Ardi Sugiarto
 
 ## Skilsl and Experience
- - :desktop_computer: Digital Forensics
- - 
+ - :computer: PHP, Dart, JS, HTML, CSS
+ - :clipboard: Cyber Security Weiter
+ - :floppy_disk: Digital Forensics
 
 I am an informatics engineering student. I have Python, Java, Java Script, PHP, Dart and C programming languages. I am a cyber security writer and have a passion for Capture the Flag.
 
