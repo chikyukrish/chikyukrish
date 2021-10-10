@@ -5,7 +5,7 @@ I am an informatics engineering student. I have Python, Java, Java Script, PHP, 
 
 ## Skilsl and Experience
  - :computer: PHP, Dart, JS, HTML, CSS
- - :clipboard: Cyber Security Weiter
+ - :clipboard: Cyber Security Writer
  - :floppy_disk: Digital Forensics
 
 
