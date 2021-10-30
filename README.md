@@ -10,7 +10,7 @@ I am an informatics engineering student. I have Python, Java, Java Script, PHP, 
 
 
 ## Example of Work
-<img src="https://github.com/chikyukrish/chikyukrish/blob/main/responsive-web-design.gif" widhst="250" />
+<img src="https://github.com/chikyukrish/chikyukrish/blob/main/responsive-web-design.gif" widhst="150" />
 <img src="https://github.com/chikyukrish/chikyukrish/blob/main/giphy.gif" widhst="250" />
 Skills: PHP / JAVA / DART / PYTHON / C / JS / HTML / CSS
 
